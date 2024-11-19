@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "name": "John",
+    "surname": "Doe",
+    "description": "A software engineer.",
+    "age": 28
+  },
+  {
+    "id": 2,
+    "name": "Jane",
+    "surname": "Smith",
+    "description": "A UI/UX designer.",
+    "age": 25
+  }
+]
